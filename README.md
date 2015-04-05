@@ -1,0 +1,2 @@
+# dades
+lloc amb dades
